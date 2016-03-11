@@ -16,4 +16,13 @@ hello everyone zhuxu add
 pmj
 huangmaopeng add
 hey guys
+<<<<<<< HEAD
+博看文思11班
+jjjjjjjjjjjjjj
+在这里
+
+
+
+=======
 aaa
+>>>>>>> 3c1acb34ccb2e2cda992222f4acebb990027d189
